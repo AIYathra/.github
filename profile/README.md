@@ -14,7 +14,7 @@ Hi, I'm **Srimal Priyanga Fonseka** — a software engineer (8+ years) now build
 | Project | What it demonstrates | Stack |
 |---|---|---|
 | **[Agentic Tool-Calling Demo](https://github.com/AIYathra/ai365-agentic_tool_calling_dapp)** | LLM-driven function calling, dynamic tool discovery, safe parameter parsing, and Python tool execution — a clean foundation for agentic workflows. | Python, LLM APIs |
-| **[Pandas House-Price Pipeline](https://github.com/AIYathra/ai365-pandas_houseprice_pipeline)** | End-to-end ML data pipeline: cleaning, EDA, feature engineering, and a baseline regression model on the Kaggle House Prices dataset. `[add: baseline metric, e.g. RMSE/R²]` | Python, Pandas, scikit-learn |
+| **[Pandas House-Price Pipeline](https://github.com/AIYathra/ai365-pandas_houseprice_pipeline)** | End-to-end ML data pipeline: cleaning, EDA, feature engineering, and a baseline regression model on the Kaggle House Prices dataset. | Python, Pandas, scikit-learn |
 | **[XOR Neural Network](https://github.com/AIYathra/ai365-xor_problem_neural_network)** | A multi-layer perceptron solving the classic non-linear XOR problem — built to show *why* hidden layers and non-linear activations matter. | Python, NumPy, Jupyter |
 | **[Simple Brain (Perceptron from scratch)](https://github.com/AIYathra/ai365-simple_brain)** | Frank Rosenblatt's 1958 Perceptron implemented from scratch — the biological and mathematical roots of learning, via a "Pizza Detector". | Python |
 
