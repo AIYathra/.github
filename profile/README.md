@@ -2,7 +2,7 @@
 
 **Documenting a daily journey through artificial intelligence — from first principles to deployed systems.**
 
-Hi, I'm **Srimal Priyanga Fonseka** — a software engineer (8+ years) now building toward an **AI / Machine Learning Engineer** career. *AI Yathra* ("yathra" = *journey*) is where I learn in public: each project is a checkpoint, built from the ground up rather than copied, so the reasoning is visible alongside the code.
+Hi, I'm **Srimal Priyanga** — a software engineer now building toward an **AI / Machine Learning Engineer** career. *AI Yathra* ("yathra" = *journey*) is where I learn in public: each project is a checkpoint, built from the ground up rather than copied, so the reasoning is visible alongside the code.
 
 📍 Belgium · open to relocation across the EU
 🔗 [LinkedIn](https://linkedin.com/in/srimalpriyanga) · ✉️ hsrprf@gmail.com
